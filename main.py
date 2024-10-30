@@ -1,7 +1,7 @@
 from fastapi import FastAPI
 from fastapi.middleware.cors import CORSMiddleware
 import json
-from uhubai.uhub import uhub_ai_assistant
+from uhub import uhub_ai_assistant
 app = FastAPI()
 
 # CORS configuration
