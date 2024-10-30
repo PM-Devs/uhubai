@@ -21,6 +21,6 @@ async def root():
 
 @app.post("/assistant")
 async def assistant(user_query: str):
-   response = uhub_ai_assistant(user_query)
-   print(response)
-   return response
+    response = uhub_ai_assistant(user_query)
+    print(response)
+    return {"response": response}
