@@ -45,7 +45,7 @@ def uhub_ai_assistant(user_query):
                     "content": user_query
                 }
             ],
-            model="",
+            model="gemma-7b-it",
             temperature=0.5,  # Allowing for some creativity in responses
             max_tokens=32768
         )
