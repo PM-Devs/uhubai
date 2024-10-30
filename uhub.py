@@ -47,7 +47,7 @@ def uhub_ai_assistant(user_query):
             ],
             model="gemma-7b-it",
             temperature=0.5,  # Allowing for some creativity in responses
-            max_tokens=32768
+            max_tokens=8100
         )
 
         uhub_ai_response = chat_completion.choices[0].message.content.strip()
