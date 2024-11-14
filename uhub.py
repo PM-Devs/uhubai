@@ -47,7 +47,7 @@ By following these guidelines, you will help users efficiently navigate and unde
                 }
             ],
             model="gemma2-9b-it",
-            temperature=0.2,  # Allowing for some creativity in responses
+            temperature=1.5,  # Allowing for some creativity in responses
             max_tokens=8192
         )
 
