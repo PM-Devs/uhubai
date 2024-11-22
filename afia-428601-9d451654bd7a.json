@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "afia-428601",
+  "private_key_id": "9d451654bd7ac1404449af04a5b0e9e21aa94f32",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQC9lAVQ6V6g/ojd\nNyZmKr+CW8NgOI2R6TePwuMEanmx4urggjiWesRrQR41ygga+94/pk10dkiAQ0+y\nq/YyICEHHHdrNWCGn+I871mpKmzBYWjXlmQKoa3/R0UH1HCeFXpu3fKXNbQU7YoZ\nHJ7mTyrRkZlwaIfdn9HLNFIBVoNiCFK3Lnrx4O3iq+PgTFMgxEDl/BX46L/IF4wN\nzbs6dRkSWUif7B5/r50EONV2juaK+0PjPtbO+BHDdS2dZSsmBZbXGXtKsesKgbjG\nDpcSu3ZYcneJq9/YoCIbBazW5ZQryrqOOELQGQQJvUg4FZoDVV8N4O5nHPcmFjnM\njj9iD2BfAgMBAAECggEAE1JcTlhSsDbxDRbbX4tY1Hj0y0BIUYhDBPB4gdE2UQaP\nKM2s5c1iaooLAbFzLQjhqHwTJd0OW6BApbW4FHjI1Pg2RaN9kIsIHGzKpx6vUfBT\nJrHpxVmgKcYCR5+D0ODghx8w4+9xyLZDHncXzOJhu1VLHbVRr6lj0QGmoANIxbtl\nhWs64zNPmSBiE0QkTbXgwuXDQCfMOueyAtCwg44ow3BJ8UXuvLGVRRn9b6ghA6+b\n15rcvRr0cr+JL+hosjhYMaAdxmoK3MUSV0j6USmBEvRjyjlnpOG4r6UafbGOkqgC\nW3zmhdUzH64OttyF84U4mAoqkyJ2gWY//+XRtU90pQKBgQDfsec8lB4H8iXO8F0k\nxez18JUIjIrfCIfwyZWPyLie1jNxvj0gifAkzU8y2HRZaddOzqHrRqXFRjDqfvMP\nCRzI1I6pqF0mTF1jyVrBFVR2/R4555R37Ozy56dF/iNxWARk9oXZTJCu7Huuj6cR\nCDe2Oi3MvaijfMTxagYPbH3SDQKBgQDY9M679sVqkeC8F2IA9o2wOZ9PRVlIfVYL\nMqOfso7z76WMAkjo5RU51N08OTUa1B6DkbiY+qQkcyYtt0STA9yU+05OO0J+18jh\noXRm7yvGQJQo1joO0gbKWa8Sv2JxxWY2LzDK32RYh6l8zSiKFzi2ojECc+4t/fOA\nmpJlsAndGwKBgFfl+A79xK8qn2CpYnBItcwONQGe+BKbr48WJwbQwHrpgF15e1uF\n2C8d3bkFBPL9e/UjjMx+fjT+V8pNCAUod38SxtwzpCagazICtP6Z+w6md3IZZWWa\nW6E3FauTKSoog9GIbR/tzgxuMEtvdx5iNEIOqmCBRfq31EtodekpoGchAoGAO+mO\n1ZVV+xIBz69dXwq3If0no0pxV3VVN45qZQV4OKDrRHi1DauFawz/c0wRADGno4mw\nQn6kqXQrDODZTQf5+CJWA4CV4lVQog5mCK7vlbXrtENEkScqvOJ7WGAFnYl3qmrp\nvHxoR5JfGZnGIiw7eyPbCORe19CTV+ZXm0E72BUCgYEAj9ah0HM4WJTVRfuNt+/B\ndK8/jxedqE4+OhOIpWpzmOimVwskb5ubt5Fnn7S81W3wnAOvi2yIaGhTCJtdbcna\nzx5WWHuuNyw6zb6+xdtct2BSeJ8hPQxjkHZRm9IiuE4CucR3y5x77Q/YHEZmoewW\nyBEbumVEtuje8RIqngAlLVg=\n-----END PRIVATE KEY-----\n",
+  "client_email": "earthengine-googleapis-com@afia-428601.iam.gserviceaccount.com",
+  "client_id": "111122925124029888163",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/earthengine-googleapis-com%40afia-428601.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}

@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>EMIT Prediction</title>
+</head>
+<body>
+    <h1>EMIT Prediction Model</h1>
+    <form method="post" action="/emit">
+        <label for="longitude">Longitude:</label>
+        <input type="text" id="longitude" name="longitude" required>
+        <br><br>
+        <label for="latitude">Latitude:</label>
+        <input type="text" id="latitude" name="latitude" required>
+        <br><br>
+        <button type="submit">Predict</button>
+    </form>
+    <br>
+    {% if result %}
+        <p><strong>Prediction:</strong> {{ result }}</p>
+    {% endif %}
+</body>
+</html>
