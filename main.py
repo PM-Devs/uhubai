@@ -5,7 +5,6 @@ from uhub import uhub_ai_assistant
 
 from fastapi import FastAPI, Request, Form
 from fastapi.responses import HTMLResponse
-from io import StringIO
 
 from fastapi.templating import Jinja2Templates
 from fastapi.staticfiles import StaticFiles
