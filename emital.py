@@ -2,7 +2,7 @@ import ee
 import pandas as pd
 from predict import predict_label  # Import the predict_label function
 
-json_key_file="afia-428601-9d451654bd7a.json"
+json_key_file="new.json"
 def authenticate_with_earth_engine(json_key_file):
     try:
         credentials = ee.ServiceAccountCredentials('', json_key_file)
