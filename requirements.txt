@@ -5,3 +5,6 @@ groq
 joblib
 earthengine-api
 pandas
+jinja2
+aiofiles
+requests
