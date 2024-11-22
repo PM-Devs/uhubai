@@ -1,6 +1,7 @@
 import ee
 import pandas as pd
 from predict import predict_label  # Import the predict_label function
+from io import StringIO
 
 json_key_file="new.json"
 def authenticate_with_earth_engine(json_key_file):
