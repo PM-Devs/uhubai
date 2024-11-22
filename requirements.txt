@@ -3,5 +3,5 @@ uvicorn
 python-dotenv
 groq
 joblib
-ee
+earthengine-api
 pandas
