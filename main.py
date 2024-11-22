@@ -7,7 +7,7 @@ from fastapi import FastAPI, Request, Form
 from fastapi.responses import HTMLResponse
 
 from fastapi.templating import Jinja2Templates
-from fastapi.staticfiles import StaticFiles
+
 from emital import extract_environmental_data  # Import the data extraction function
 app = FastAPI()
 
@@ -35,7 +35,6 @@ async def assistant(user_query: str):
 
 # Set up templates directory
 templates = Jinja2Templates(directory="templates")
-app.mount("/static", StaticFiles(directory="static"), name="static")
 
 
 @app.get("/emit", response_class=HTMLResponse)
