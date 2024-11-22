@@ -1,7 +1,13 @@
-import ee
+
+import sys
+if sys.version_info[0] >= 3:  # If using Python 3
+    import io
+    StringIO = io.StringIO  # Replace StringIO with the correct import
+
+import ee  # Now import ee
+
 import pandas as pd
 from predict import predict_label  # Import the predict_label function
-from io import StringIO
 
 json_key_file="new.json"
 def authenticate_with_earth_engine(json_key_file):
